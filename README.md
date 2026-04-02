@@ -184,6 +184,3 @@ Rather than treating degradations in the same manner, the research demonstrates 
 
 ## License
 MIT License
-
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Framework](https://img.shields.io/badge/framework-PyTorch-red)
